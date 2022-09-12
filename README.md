@@ -6,7 +6,7 @@
 <h2><img src="" height="20"></h2>
 -->
 
-<h2><img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="20"> My Socials</h2>
+<h2><height="20"> My Socials</h2>
 <p>
  
 <!-- Email, Buy Me A Coffe -->
@@ -23,4 +23,8 @@
 - 📫 How to reach me: Tyemccahon3@gmail.com
 
 
-<h2><img src="" height="20">My Knowledge</h2>
+<h2><height="20">My Knowledge</h2>
+<a href="#"><img height="25" src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"></a>
+<a href="#"><img height="25" src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"></a>
+<a href="#"><img height="25" src = "https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"></a>
+<a href="#"><img height="25" src = "https://img.shields.io/badge/-Premiere%20Pro-800080?style=flat-square&logo=adobe%20premiere%20pro&logoColor=white"></a>
