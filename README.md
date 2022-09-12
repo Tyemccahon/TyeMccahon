@@ -23,4 +23,4 @@
 - 📫 How to reach me: Tyemccahon3@gmail.com
 
 
-<h2><img src="https://media.giphy.com/media/Vu0PkdzYs33ugVj915/giphy.gif" height="20">Projects</h2>
+<h2><img src="" height="20">My Knowledge</h2>
