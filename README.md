@@ -6,6 +6,8 @@
 <h2><img src="" height="20"></h2>
 -->
 
+<img href="https://pratikkale.biz" src="assets/NameCard.png">
+
 <h2><height="20"> My Socials</h2>
 <p>
  
