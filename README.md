@@ -42,18 +42,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TyeMccahon&show_icons=true&theme=radical" alt="Tyler's GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TyeMccahon&show_icons=true&theme=radical&layout=compact" alt="Tyler's Top Languages"/>
-</p>
-
----
-
 ### 💡 Projects & Contributions
 
 - 🚀 [Project Name](#) - Brief description of the project.
