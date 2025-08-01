@@ -22,7 +22,6 @@
 - 🔭 Currently working on **Full Stack Web Development Projects**
 - 🌱 Learning **React, Node.js, and MongoDB**
 - 👯 Open to collaborations on **Web Development** projects
-- 📫 Reach me at **tyler@example.com**
 - 💼 Check out my portfolio: [My Portfolio](#)
 
 ---
@@ -44,15 +43,15 @@
 
 ### 💡 Projects & Contributions
 
-- 🚀 [Project Name](#) - Brief description of the project.
-- 🔧 [Project Name](#) - Brief description of the project.
-- 🌐 [Project Name](#) - Brief description of the project.
+- 🚀 [Nothing Yet](#) - Not working on anything at the moment :(.
+- 🔧 [Nothing Yet](#) - Not working on anything at the moment :(.
+- 🌐 [Nothing Yet](#) - Not working on anything at the moment :(.
 
 ---
 
 ### 📫 Get in Touch
 
-Feel free to reach out to me via [LinkedIn](https://linkedin.com/in/tyler) or [Email](mailto:tyler@example.com) if you'd like to collaborate or chat about tech!
+Feel free to reach out to me via [Discord](._tyler_._)!
 
 ---
 
